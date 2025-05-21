@@ -1,6 +1,9 @@
-<h1 align="left">Hi! 
-  My name is Lance aka <a href="https://linktr.ee/ransuhaneda">@ransuhaneda</a>. An aspiring Full-Stack Dev
-</h1>
+
+
+# Hi! My name is Lance aka <a href="https://linktr.ee/ransuhaneda" target="_blank">@ransuhaneda</a>.
+## An aspiring Full-Stack Dev
+
+---
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&duration=4000&pause=500&color=EBB01C&center=true&vCenter=true&random=true&width=435&lines=%7C+Graphic+Designer+%7C;Sometimes+i+draw.;%7C+Full-Stack+Developer+%7C;%7C+Digital+Artist+%7C" alt="Typing SVG" />
@@ -67,7 +70,7 @@
 ###
 
 <div align="center">
-    Wednesday, May 21 at 10:23 AM 
+    Wednesday, May 21 at 10:26 AM 
     <p>
         Currently, the weather is: <b> 34°C, <i>Overcast</i></b>
         </br>
