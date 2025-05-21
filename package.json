@@ -1,0 +1,24 @@
+{
+  "name": "ransuhaneda",
+  "version": "1.0.0",
+  "description": "My name is Lance aka ransuhaneda and I'm an aspiring Full-Stack Dev",
+  "homepage": "https://github.com/ransuhaneda/ransuhaneda#readme",
+  "bugs": {
+    "url": "https://github.com/ransuhaneda/ransuhaneda/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ransuhaneda/ransuhaneda.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "mustache": "^4.2.0",
+    "openmeteo": "^1.2.0"
+  }
+}
