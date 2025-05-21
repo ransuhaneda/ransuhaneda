@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="left">Hi! 
-  <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> 
-  My name is Lance aka <a href="https://linktr.ee/ransuhaneda"><strong>Ransu</strong></a> and I'm an aspiring Full-Stack Dev
+  My name is Lance aka <a href="https://linktr.ee/ransuhaneda"><strong>ransu</strong></a> and I'm an aspiring Full-Stack Dev
 </h1>
 ---
 
