@@ -1,5 +1,5 @@
 <h1 align="left">Hi! 
-  My name is Lance aka <a href="https://linktr.ee/ransuhaneda"><strong>ransu</strong></a> and I'm an aspiring Full-Stack Dev
+  My name is Lance aka <a href="https://linktr.ee/ransuhaneda">@ransuhaneda</a>. An aspiring Full-Stack Dev
 </h1>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   </a>
@@ -31,18 +31,18 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   </a>
-
-  <img width="12" />
-
-  <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"/>
-  </a> 
   
  <img width="12" />
 
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   </a>
+
+<img width="12" />
+
+  <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"/>
+  </a> 
 
 <img width="12" />
 
@@ -64,10 +64,12 @@
 
 </div>
 
+###
+
 <div align="center">
-    Wednesday, May 21 at 10:07 AM 
+    Wednesday, May 21 at 10:23 AM 
     <p>
-        Currently, the weather is: <b> 33°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 34°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>05:26 AM</b> and sets at <b>06:18 PM</b>.
     </p>
