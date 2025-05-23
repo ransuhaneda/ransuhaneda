@@ -13,10 +13,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout current repository to main branch
+      - name: Change Github Action Timezone
+        uses: szenius/set-timezone@v2.0
+        with:
+          timezoneLinux: "Asia/Singapore"
+          # timezoneMacos: "Asia/Singapore"
+          # timezoneWindows: "Singapore Standard Time"
+
+      - name: Checkout branch
         uses: actions/checkout@v4
       
-      - name: Setup NodeJs
+      - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: '20'
@@ -34,7 +41,7 @@ jobs:
       - name: Generate README file
         run: node index.js
 
-      - name: Commit and Push new README.md to the repository
+      - name: Commit and Push README.md
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
