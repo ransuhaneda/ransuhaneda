@@ -1,7 +1,6 @@
 
 
-# Hi! My name is Lance aka <a href="https://linktr.ee/ransuhaneda" target="_blank">@ransuhaneda</a>.
-## An aspiring Full-Stack Dev
+## Hi! My name is Lance aka <a href="https://linktr.ee/ransuhaneda" target="_blank">@ransuhaneda</a>. An aspiring Full-Stack Dev.
 
 ---
 
@@ -70,10 +69,10 @@
 ###
 
 <div align="center">
-    Wednesday, May 21 at 10:26 AM 
+    Friday, May 23 at 2:35 PM 
     <p>
-        Currently, the weather is: <b> 34°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 29°C, <i>Clear sky</i></b>
         </br>
-        Today, the sun rises at <b>05:26 AM</b> and sets at <b>06:18 PM</b>.
+        Today, the sun rises at <b>01:26 PM</b> and sets at <b>02:19 AM</b>.
     </p>
 </div>
