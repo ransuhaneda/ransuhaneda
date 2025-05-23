@@ -23,8 +23,8 @@ let DATA = {
 
 async function setWeatherInformation() {
   const params = {
-    latitude: 14.595644624828882,
-    longitude: 120.97649517150018,
+    latitude: 14.63,
+    longitude: 121.00,
     daily: ["sunset", "sunrise", "weather_code"],
     current: ["temperature_2m", "weather_code"],
     timezone: "Asia/Singapore",
@@ -42,12 +42,10 @@ async function setWeatherInformation() {
     DATA.sun_rise = new Date(data.daily.sunrise[0]).toLocaleString("en-US", {
       hour: "2-digit",
       minute: "2-digit",
-      timeZone: "Asia/Singapore",
     });
     DATA.sun_set = new Date(data.daily.sunset[0]).toLocaleString("en-US", {
       hour: "2-digit",
       minute: "2-digit",
-      timeZone: "Asia/Singapore",
     });
   } catch (error) {
     console.error("Error fetching weather data:", error);
