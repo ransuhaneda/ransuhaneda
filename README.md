@@ -69,9 +69,9 @@
 ###
 
 <div align="center">
-    Friday, May 30 at 9:43 AM 
+    Friday, May 30 at 2:30 PM 
     <p>
-        Currently, the weather is: <b> 31°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 32°C, <i>Slight rain showers</i></b>
         </br>
         Today, the sun rises at <b>05:25 AM</b> and sets at <b>06:21 PM</b>.
     </p>
