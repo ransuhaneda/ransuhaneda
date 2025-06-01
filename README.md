@@ -69,9 +69,9 @@
 ###
 
 <div align="center">
-    Sunday, June 1 at 2:29 PM 
+    Sunday, June 1 at 8:39 PM 
     <p>
-        Currently, the weather is: <b> 32°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 28°C, <i>Partly cloudy</i></b>
         </br>
         Today, the sun rises at <b>05:25 AM</b> and sets at <b>06:21 PM</b>.
     </p>
