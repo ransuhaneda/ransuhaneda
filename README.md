@@ -69,9 +69,9 @@
 ###
 
 <div align="center">
-    Monday, June 2 at 2:32 PM 
+    Monday, June 2 at 8:43 PM 
     <p>
-        Currently, the weather is: <b> 31°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 28°C, <i>Slight rain showers</i></b>
         </br>
         Today, the sun rises at <b>05:25 AM</b> and sets at <b>06:22 PM</b>.
     </p>
