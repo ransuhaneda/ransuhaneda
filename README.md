@@ -1,5 +1,3 @@
-
-
 ## Hi! My name is Lance aka <a href="https://linktr.ee/ransuhaneda" target="_blank">@ransuhaneda</a>. An aspiring Full-Stack Dev.
 
 ---
