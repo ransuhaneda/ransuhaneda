@@ -1,4 +1,4 @@
-## Hi! My name is Lance aka <a href="https://linktr.ee/ransuhaneda" target="_blank">@ransuhaneda</a>. An aspiring Full-Stack Dev.
+## Hi! My name is Lance aka <a href="https://linktr.ee/ransuhaneda" target="_blank">@ransuhaneda</a>.
 
 ---
 
@@ -18,8 +18,8 @@
 <div style="display: flex;
   flex-flow: row nowrap;
   justify-content: center;
-  gap: 20px;
-  margin: 10px 0;">
+  gap: 3px;
+  margin: 5px 0;">
 
   <a style="height: 100%;
   width: 50px;" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -66,7 +66,7 @@
 ###
 
 <div align="center">
-    Wednesday, June 4 at 4:00 AM 
+    Wednesday, June 4 at 4:28 AM 
     <p>
         Currently, the weather is: <b> 29°C, <i>Slight rain showers</i></b>
         </br>
