@@ -11,57 +11,56 @@
 ###
 
 <div align="center">
-  <img src="https://readme-stats-ransu-hanedas-projects.vercel.app/api?username=ransuhaneda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://readme-stats-ransu-hanedas-projects.vercel.app/api/top-langs?username=ransuhaneda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://readme-stats-clone-ransu-hanedas-projects.vercel.app/api?username=ransuhaneda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://readme-stats-clone-ransu-hanedas-projects.vercel.app/api/top-langs?username=ransuhaneda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+<div style="display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  gap: 20px;
+  margin: 10px 0;">
+
+  <a style="height: 100%;
+  width: 50px;" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="html5 logo"  />
   </a>
 
-  <img width="12" />
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <a style="height: 100%;
+  width: 50px;" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="css3 logo"  />
   </a>
 
-  <img width="12" />
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  </a>
-  
- <img width="12" />
-
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+  <a style="height: 100%;
+  width: 50px;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="javascript logo"  />
   </a>
 
-<img width="12" />
+  <a style="height: 100%;
+  width: 50px;" href="https://www.php.net/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="php logo"  />
+  </a>
 
-  <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"/>
+  <a style="height: 100%;
+  width: 50px;" href="https://react.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="react logo"  />
+  </a>
+
+  <a style="height: 100%;
+  width: 50px;" href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50" alt="bootstrap logo"/>
   </a> 
 
-<img width="12" />
-
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  </a>
-  
-<img width="12" />
-
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
+  <a style="height: 100%;
+  width: 50px;" href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="typescript logo"  />
   </a>
 
-  <img width="12" />
-
-  <a href="https://laravel.com/docs/12.x" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="50" alt="laravel logo"/>
+  <a style="height: 100%;
+  width: 50px;" href="https://laravel.com/docs/12.x" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="50" alt="laravel logo"/>
   </a>
 
 </div>
@@ -69,7 +68,7 @@
 ###
 
 <div align="center">
-    Wednesday, June 4 at 2:30 AM 
+    Wednesday, June 4 at 4:00 AM 
     <p>
         Currently, the weather is: <b> 29°C, <i>Slight rain showers</i></b>
         </br>
