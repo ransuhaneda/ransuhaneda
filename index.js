@@ -4,11 +4,7 @@ const MUSTACHE_MAIN_DIR = "./main.mustache";
 
 const { getWeatherDescription } = require('./api/getWeatherDescription.mjs')
 const { getWeatherIcon } = require('./api/getWeatherIcon.mjs')
-/**
- * DATA is the object that contains all
- * the data to be provided to Mustache
- * Notice the "name" and "date" property.
- */
+
 let DATA = {
   name: "Lance",
   date: new Date().toLocaleDateString("en-US", {
@@ -42,21 +38,18 @@ async function setWeatherInformation() {
     DATA.sun_rise = new Date(data.daily.sunrise[0]).toLocaleString("en-US", {
       hour: "2-digit",
       minute: "2-digit",
+      timeZone: "Asia/Singapore",
     });
     DATA.sun_set = new Date(data.daily.sunset[0]).toLocaleString("en-US", {
       hour: "2-digit",
       minute: "2-digit",
+      timeZone: "Asia/Singapore",
     });
   } catch (error) {
     console.error("Error fetching weather data:", error);
   }
 }
 
-/**
- * A - We open 'main.mustache'
- * B - We ask Mustache to render our file with the data
- * C - We create a README.md file with the generated output
- */
 function generateReadMe() {
   fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
     if (err) throw err;
