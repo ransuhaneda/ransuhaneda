@@ -63,9 +63,9 @@
 ###
 
 <div align="center">
-    Tuesday, June 10 at 2:30 AM 
+    Tuesday, June 10 at 9:48 AM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 28°C, <i>Thunderstorm</i></b>
         </br>
         Today, the sun rises at <b>05:26 AM</b> and sets at <b>06:24 PM</b>.
     </p>
