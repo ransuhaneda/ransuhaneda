@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
-    Wednesday, June 11 at 8:44 PM 
+    Thursday, June 12 at 2:30 AM 
     <p>
         Currently, the weather is: <b> 29°C, <i>Thunderstorm</i></b>
         </br>
