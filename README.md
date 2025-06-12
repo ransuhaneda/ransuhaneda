@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
-    Thursday, June 12 at 8:43 PM 
+    Friday, June 13 at 2:29 AM 
     <p>
         Currently, the weather is: <b> 29°C, <i>Overcast</i></b>
         </br>
