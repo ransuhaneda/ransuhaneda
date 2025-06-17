@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
-    Tuesday, June 17 at 8:45 PM 
+    Wednesday, June 18 at 2:30 AM 
     <p>
         Currently, the weather is: <b> 28°C, <i>Thunderstorm</i></b>
         </br>
