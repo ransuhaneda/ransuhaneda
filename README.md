@@ -63,9 +63,9 @@
 ###
 
 <div align="center">
-    Saturday, June 21 at 2:28 PM 
+    Saturday, June 21 at 8:39 PM 
     <p>
-        Currently, the weather is: <b> 29°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 29°C, <i>Thunderstorm with slight hail</i></b>
         </br>
         Today, the sun rises at <b>05:27 AM</b> and sets at <b>06:27 PM</b>.
     </p>
