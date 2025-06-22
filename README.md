@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
-    Sunday, June 22 at 8:39 PM 
+    Monday, June 23 at 2:27 AM 
     <p>
         Currently, the weather is: <b> 28°C, <i>Thunderstorm</i></b>
         </br>
