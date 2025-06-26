@@ -63,9 +63,9 @@
 ###
 
 <div align="center">
-    Thursday, June 26 at 8:45 PM 
+    Friday, June 27 at 2:30 AM 
     <p>
-        Currently, the weather is: <b> 29°C, <i>Slight rain showers</i></b>
+        Currently, the weather is: <b> 28°C, <i>Thunderstorm</i></b>
         </br>
         Today, the sun rises at <b>05:29 AM</b> and sets at <b>06:28 PM</b>.
     </p>
