@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
-    Sunday, June 29 at 2:30 PM 
+    Sunday, June 29 at 8:40 PM 
     <p>
         Currently, the weather is: <b> 28°C, <i>Slight rain showers</i></b>
         </br>
