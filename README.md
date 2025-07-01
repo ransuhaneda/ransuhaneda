@@ -63,9 +63,9 @@
 ###
 
 <div align="center">
-    Tuesday, July 1 at 2:33 PM 
+    Tuesday, July 1 at 8:45 PM 
     <p>
-        Currently, the weather is: <b> 29°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 29°C, <i>Slight rain showers</i></b>
         </br>
         Today, the sun rises at <b>05:30 AM</b> and sets at <b>06:29 PM</b>.
     </p>
