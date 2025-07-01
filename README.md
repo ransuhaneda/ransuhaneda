@@ -63,9 +63,9 @@
 ###
 
 <div align="center">
-    Tuesday, July 1 at 2:30 AM 
+    Tuesday, July 1 at 10:00 AM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Thunderstorm</i></b>
+        Currently, the weather is: <b> 28°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>05:30 AM</b> and sets at <b>06:29 PM</b>.
     </p>
