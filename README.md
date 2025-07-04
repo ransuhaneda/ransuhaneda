@@ -63,9 +63,9 @@
 ###
 
 <div align="center">
-    Friday, July 4 at 9:49 AM 
+    Friday, July 4 at 2:32 PM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Thunderstorm</i></b>
+        Currently, the weather is: <b> 28°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>05:31 AM</b> and sets at <b>06:29 PM</b>.
     </p>
