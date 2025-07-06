@@ -63,9 +63,9 @@
 ###
 
 <div align="center">
-    Sunday, July 6 at 2:27 AM 
+    Sunday, July 6 at 9:57 AM 
     <p>
-        Currently, the weather is: <b> 29°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 29°C, <i>Slight rain showers</i></b>
         </br>
         Today, the sun rises at <b>05:32 AM</b> and sets at <b>06:29 PM</b>.
     </p>
