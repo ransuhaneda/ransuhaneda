@@ -63,9 +63,9 @@
 ###
 
 <div align="center">
-    Monday, July 7 at 2:34 PM 
+    Monday, July 7 at 8:44 PM 
     <p>
-        Currently, the weather is: <b> 29°C, <i>Thunderstorm</i></b>
+        Currently, the weather is: <b> 29°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>05:32 AM</b> and sets at <b>06:29 PM</b>.
     </p>
