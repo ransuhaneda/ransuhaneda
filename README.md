@@ -63,9 +63,9 @@
 ###
 
 <div align="center">
-    Monday, July 7 at 2:28 AM 
+    Monday, July 7 at 9:54 AM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Slight rain showers</i></b>
+        Currently, the weather is: <b> 28°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>05:32 AM</b> and sets at <b>06:29 PM</b>.
     </p>
