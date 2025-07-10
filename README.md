@@ -63,9 +63,9 @@
 ###
 
 <div align="center">
-    Thursday, July 10 at 2:33 PM 
+    Thursday, July 10 at 8:46 PM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Thunderstorm</i></b>
+        Currently, the weather is: <b> 28°C, <i>Thunderstorm with slight hail</i></b>
         </br>
         Today, the sun rises at <b>05:33 AM</b> and sets at <b>06:29 PM</b>.
     </p>
