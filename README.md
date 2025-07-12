@@ -63,9 +63,9 @@
 ###
 
 <div align="center">
-    Saturday, July 12 at 2:30 PM 
+    Saturday, July 12 at 8:40 PM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 29°C, <i>Slight rain showers</i></b>
         </br>
         Today, the sun rises at <b>05:33 AM</b> and sets at <b>06:29 PM</b>.
     </p>
