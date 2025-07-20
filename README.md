@@ -63,9 +63,9 @@
 ###
 
 <div align="center">
-    Sunday, July 20 at 2:31 PM 
+    Sunday, July 20 at 8:42 PM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Slight rain showers</i></b>
+        Currently, the weather is: <b> 28°C, <i>Thunderstorm</i></b>
         </br>
         Today, the sun rises at <b>05:36 AM</b> and sets at <b>06:28 PM</b>.
     </p>
