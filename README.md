@@ -63,9 +63,9 @@
 ###
 
 <div align="center">
-    Thursday, July 24 at 2:35 PM 
+    Thursday, July 24 at 8:49 PM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Thunderstorm</i></b>
+        Currently, the weather is: <b> 28°C, <i>Slight rain showers</i></b>
         </br>
         Today, the sun rises at <b>05:37 AM</b> and sets at <b>06:27 PM</b>.
     </p>
