@@ -63,9 +63,9 @@
 ###
 
 <div align="center">
-    Friday, August 1 at 2:34 AM 
+    Friday, August 1 at 10:08 AM 
     <p>
-        Currently, the weather is: <b> 29°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 29°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>05:39 AM</b> and sets at <b>06:25 PM</b>.
     </p>
