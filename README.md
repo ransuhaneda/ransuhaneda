@@ -63,9 +63,9 @@
 ###
 
 <div align="center">
-    Saturday, August 2 at 2:34 AM 
+    Saturday, August 2 at 9:52 AM 
     <p>
-        Currently, the weather is: <b> 29°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 29°C, <i>Partly cloudy</i></b>
         </br>
         Today, the sun rises at <b>05:39 AM</b> and sets at <b>06:25 PM</b>.
     </p>
