@@ -63,9 +63,9 @@
 ###
 
 <div align="center">
-    Wednesday, August 6 at 2:37 PM 
+    Wednesday, August 6 at 8:51 PM 
     <p>
-        Currently, the weather is: <b> 29°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 28°C, <i>Thunderstorm with slight hail</i></b>
         </br>
         Today, the sun rises at <b>05:40 AM</b> and sets at <b>06:23 PM</b>.
     </p>
