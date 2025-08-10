@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
-    Sunday, August 10 at 2:30 AM 
+    Sunday, August 10 at 10:02 AM 
     <p>
         Currently, the weather is: <b> 28°C, <i>Overcast</i></b>
         </br>
