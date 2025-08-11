@@ -63,9 +63,9 @@
 ###
 
 <div align="center">
-    Monday, August 11 at 2:36 PM 
+    Monday, August 11 at 8:49 PM 
     <p>
-        Currently, the weather is: <b> 29°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 28°C, <i>Thunderstorm with slight hail</i></b>
         </br>
         Today, the sun rises at <b>05:41 AM</b> and sets at <b>06:21 PM</b>.
     </p>
