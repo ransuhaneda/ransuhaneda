@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
-    Sunday, August 17 at 2:31 PM 
+    Sunday, August 17 at 8:41 PM 
     <p>
         Currently, the weather is: <b> 29°C, <i>Overcast</i></b>
         </br>
