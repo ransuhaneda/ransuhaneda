@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
-    Wednesday, August 27 at 2:30 PM 
+    Wednesday, August 27 at 8:42 PM 
     <p>
         Currently, the weather is: <b> 28°C, <i>Slight rain showers</i></b>
         </br>
