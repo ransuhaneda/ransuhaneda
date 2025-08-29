@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
-    Friday, August 29 at 9:39 AM 
+    Friday, August 29 at 2:30 PM 
     <p>
         Currently, the weather is: <b> 28°C, <i>Overcast</i></b>
         </br>
