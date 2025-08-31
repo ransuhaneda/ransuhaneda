@@ -63,9 +63,9 @@
 ###
 
 <div align="center">
-    Sunday, August 31 at 2:28 PM 
+    Sunday, August 31 at 8:38 PM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 28°C, <i>Thunderstorm</i></b>
         </br>
         Today, the sun rises at <b>05:43 AM</b> and sets at <b>06:08 PM</b>.
     </p>
