@@ -63,9 +63,9 @@
 ###
 
 <div align="center">
-    Wednesday, September 3 at 9:27 AM 
+    Wednesday, September 3 at 2:29 PM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Slight rain showers</i></b>
+        Currently, the weather is: <b> 28°C, <i>Thunderstorm</i></b>
         </br>
         Today, the sun rises at <b>05:44 AM</b> and sets at <b>06:06 PM</b>.
     </p>
