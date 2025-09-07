@@ -63,9 +63,9 @@
 ###
 
 <div align="center">
-    Sunday, September 7 at 2:27 PM 
+    Sunday, September 7 at 8:37 PM 
     <p>
-        Currently, the weather is: <b> 29°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 28°C, <i>Thunderstorm</i></b>
         </br>
         Today, the sun rises at <b>05:44 AM</b> and sets at <b>06:03 PM</b>.
     </p>
