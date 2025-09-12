@@ -63,10 +63,10 @@
 ###
 
 <div align="center">
-    Friday, September 12 at 8:39 PM 
+    Saturday, September 13 at 2:24 AM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Thunderstorm</i></b>
+        Currently, the weather is: <b> 27°C, <i>Slight rain showers</i></b>
         </br>
-        Today, the sun rises at <b>05:44 AM</b> and sets at <b>06:00 PM</b>.
+        Today, the sun rises at <b>05:44 AM</b> and sets at <b>05:59 PM</b>.
     </p>
 </div>
