@@ -63,9 +63,9 @@
 ###
 
 <div align="center">
-    Tuesday, September 16 at 2:29 AM 
+    Tuesday, September 16 at 9:27 AM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Thunderstorm</i></b>
+        Currently, the weather is: <b> 27°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>05:44 AM</b> and sets at <b>05:56 PM</b>.
     </p>
