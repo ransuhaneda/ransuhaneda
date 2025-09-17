@@ -63,10 +63,10 @@
 ###
 
 <div align="center">
-    Wednesday, September 17 at 8:41 PM 
+    Thursday, September 18 at 2:29 AM 
     <p>
-        Currently, the weather is: <b> 27°C, <i>Slight rain</i></b>
+        Currently, the weather is: <b> 27°C, <i>Thunderstorm</i></b>
         </br>
-        Today, the sun rises at <b>05:44 AM</b> and sets at <b>05:56 PM</b>.
+        Today, the sun rises at <b>05:44 AM</b> and sets at <b>05:55 PM</b>.
     </p>
 </div>
