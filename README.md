@@ -63,9 +63,9 @@
 ###
 
 <div align="center">
-    Friday, September 19 at 2:29 AM 
+    Friday, September 19 at 9:37 AM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Slight rain showers</i></b>
+        Currently, the weather is: <b> 28°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>05:44 AM</b> and sets at <b>05:54 PM</b>.
     </p>
