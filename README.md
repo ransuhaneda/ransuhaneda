@@ -63,9 +63,9 @@
 ###
 
 <div align="center">
-    Sunday, September 21 at 2:28 PM 
+    Sunday, September 21 at 8:37 PM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Thunderstorm</i></b>
+        Currently, the weather is: <b> 28°C, <i>Slight rain showers</i></b>
         </br>
         Today, the sun rises at <b>05:45 AM</b> and sets at <b>05:53 PM</b>.
     </p>
