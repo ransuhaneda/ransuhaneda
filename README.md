@@ -63,10 +63,10 @@
 ###
 
 <div align="center">
-    Sunday, September 21 at 8:37 PM 
+    Monday, September 22 at 2:26 AM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Slight rain showers</i></b>
+        Currently, the weather is: <b> 28°C, <i>Thunderstorm with slight hail</i></b>
         </br>
-        Today, the sun rises at <b>05:45 AM</b> and sets at <b>05:53 PM</b>.
+        Today, the sun rises at <b>05:45 AM</b> and sets at <b>05:52 PM</b>.
     </p>
 </div>
