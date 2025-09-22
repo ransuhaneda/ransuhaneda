@@ -63,9 +63,9 @@
 ###
 
 <div align="center">
-    Monday, September 22 at 2:26 AM 
+    Monday, September 22 at 9:44 AM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Thunderstorm with slight hail</i></b>
+        Currently, the weather is: <b> 28°C, <i>Thunderstorm</i></b>
         </br>
         Today, the sun rises at <b>05:45 AM</b> and sets at <b>05:52 PM</b>.
     </p>
