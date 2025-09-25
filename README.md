@@ -63,9 +63,9 @@
 ###
 
 <div align="center">
-    Thursday, September 25 at 9:38 AM 
+    Thursday, September 25 at 2:31 PM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Mainly clear</i></b>
+        Currently, the weather is: <b> 28°C, <i>Partly cloudy</i></b>
         </br>
         Today, the sun rises at <b>05:45 AM</b> and sets at <b>05:50 PM</b>.
     </p>
