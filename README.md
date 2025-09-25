@@ -63,10 +63,10 @@
 ###
 
 <div align="center">
-    Thursday, September 25 at 8:43 PM 
+    Friday, September 26 at 2:30 AM 
     <p>
-        Currently, the weather is: <b> 27°C, <i>Slight rain</i></b>
+        Currently, the weather is: <b> 27°C, <i>Overcast</i></b>
         </br>
-        Today, the sun rises at <b>05:45 AM</b> and sets at <b>05:50 PM</b>.
+        Today, the sun rises at <b>05:45 AM</b> and sets at <b>05:49 PM</b>.
     </p>
 </div>
