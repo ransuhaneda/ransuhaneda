@@ -63,9 +63,9 @@
 ###
 
 <div align="center">
-    Monday, September 29 at 2:25 AM 
+    Monday, September 29 at 9:40 AM 
     <p>
-        Currently, the weather is: <b> 27°C, <i>Slight rain showers</i></b>
+        Currently, the weather is: <b> 28°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>05:45 AM</b> and sets at <b>05:47 PM</b>.
     </p>
