@@ -63,9 +63,9 @@
 ###
 
 <div align="center">
-    Tuesday, September 30 at 2:31 PM 
+    Tuesday, September 30 at 8:44 PM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Slight rain showers</i></b>
+        Currently, the weather is: <b> 28°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>05:45 AM</b> and sets at <b>05:46 PM</b>.
     </p>
