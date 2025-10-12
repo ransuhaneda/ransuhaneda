@@ -1,0 +1,48 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    devDependencies:
+      mustache:
+        specifier: ^4.2.0
+        version: 4.2.0
+      openmeteo:
+        specifier: ^1.2.1
+        version: 1.2.1
+
+packages:
+
+  '@openmeteo/sdk@1.21.2':
+    resolution: {integrity: sha512-AaX53PfPMVAaxdvuthRJePLD46eGYoaGQMEW5A0/xuAjigTQncN4WOhrXlOvg8aG8zfQQVUmhKFDHB/+UCUVoQ==}
+    engines: {node: '>=12.0'}
+
+  flatbuffers@25.9.23:
+    resolution: {integrity: sha512-MI1qs7Lo4Syw0EOzUl0xjs2lsoeqFku44KpngfIduHBYvzm8h2+7K8YMQh1JtVVVrUvhLpNwqVi4DERegUJhPQ==}
+
+  mustache@4.2.0:
+    resolution: {integrity: sha512-71ippSywq5Yb7/tVYyGbkBggbU8H3u5Rz56fH60jGFgr8uHwxs+aSKeqmluIVzM0m0kB7xQjKS6qPfd0b2ZoqQ==}
+    hasBin: true
+
+  openmeteo@1.2.1:
+    resolution: {integrity: sha512-BNps/RuJo0tIWhBiEvThO28Df3pU6q7m77wBhuS74FkvYYmrub9+KqzBiMd6XNPhWL4tPfG0iE3tXREy+pkwiQ==}
+    engines: {node: '>=12.0'}
+
+snapshots:
+
+  '@openmeteo/sdk@1.21.2':
+    dependencies:
+      flatbuffers: 25.9.23
+
+  flatbuffers@25.9.23: {}
+
+  mustache@4.2.0: {}
+
+  openmeteo@1.2.1:
+    dependencies:
+      '@openmeteo/sdk': 1.21.2
+      flatbuffers: 25.9.23

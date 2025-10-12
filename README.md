@@ -9,8 +9,7 @@
 ###
 
 <div align="center">
-  <img src="https://readme-stats-clone-ransu-hanedas-projects.vercel.app/api?username=ransuhaneda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://readme-stats-clone-ransu-hanedas-projects.vercel.app/api/top-langs?username=ransuhaneda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
+  ![ransuhaneda's Language stats](https://github-stats-card-generator.vercel.app/api/svg?username=ransuhaneda&type=languages&theme=dark&chart=bars)
 </div>
 
 ###
@@ -63,10 +62,10 @@
 ###
 
 <div align="center">
-    Wednesday, June 4 at 4:58 AM 
+    Monday, October 13 at 1:19 AM 
     <p>
-        Currently, the weather is: <b> 29°C, <i>Slight rain showers</i></b>
+        Currently, the weather is: <b> 28°C, <i>Slight rain showers</i></b>
         </br>
-        Today, the sun rises at <b>05:25 AM</b> and sets at <b>06:22 PM</b>.
+        Today, the sun rises at <b>05:47 AM</b> and sets at <b>05:37 PM</b>.
     </p>
 </div>

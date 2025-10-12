@@ -19,6 +19,6 @@
   },
   "devDependencies": {
     "mustache": "^4.2.0",
-    "openmeteo": "^1.2.0"
+    "openmeteo": "^1.2.1"
   }
 }
