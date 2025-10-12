@@ -9,7 +9,9 @@
 ###
 
 <div align="center">
+
   ![ransuhaneda's Language stats](https://github-stats-card-generator.vercel.app/api/svg?username=ransuhaneda&type=languages&theme=dark&chart=bars)
+  
 </div>
 
 ###
@@ -62,7 +64,7 @@
 ###
 
 <div align="center">
-    Monday, October 13 at 1:19 AM 
+    Monday, October 13 at 1:25 AM 
     <p>
         Currently, the weather is: <b> 28°C, <i>Slight rain showers</i></b>
         </br>
