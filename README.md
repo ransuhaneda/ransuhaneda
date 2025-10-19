@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Sunday, October 19 at 8:38 PM 
+    Monday, October 20 at 2:27 AM 
     <p>
-        Currently, the weather is: <b> 27°C, <i>Slight rain</i></b>
+        Currently, the weather is: <b> 27°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>05:48 AM</b> and sets at <b>05:33 PM</b>.
     </p>
