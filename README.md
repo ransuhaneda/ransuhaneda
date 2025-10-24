@@ -64,7 +64,7 @@
 ###
 
 <div align="center">
-    Friday, October 24 at 2:30 PM 
+    Friday, October 24 at 8:45 PM 
     <p>
         Currently, the weather is: <b> 28°C, <i>Slight rain showers</i></b>
         </br>
