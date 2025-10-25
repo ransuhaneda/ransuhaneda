@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Saturday, October 25 at 2:28 PM 
+    Saturday, October 25 at 8:38 PM 
     <p>
-        Currently, the weather is: <b> 29°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 28°C, <i>Moderate rain showers</i></b>
         </br>
         Today, the sun rises at <b>05:49 AM</b> and sets at <b>05:30 PM</b>.
     </p>
