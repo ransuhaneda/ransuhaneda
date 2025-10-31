@@ -64,7 +64,7 @@
 ###
 
 <div align="center">
-    Friday, October 31 at 2:32 PM 
+    Friday, October 31 at 8:43 PM 
     <p>
         Currently, the weather is: <b> 29°C, <i>Overcast</i></b>
         </br>
