@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Friday, November 7 at 8:43 PM 
+    Saturday, November 8 at 2:30 AM 
     <p>
-        Currently, the weather is: <b> °C, <i></i></b>
+        Currently, the weather is: <b> 28°C, <i>Overcast</i></b>
         </br>
-        Today, the sun rises at <b></b> and sets at <b></b>.
+        Today, the sun rises at <b>05:54 AM</b> and sets at <b>05:25 PM</b>.
     </p>
 </div>
