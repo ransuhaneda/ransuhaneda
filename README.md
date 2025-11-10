@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Monday, November 10 at 2:27 AM 
+    Monday, November 10 at 9:49 AM 
     <p>
-        Currently, the weather is: <b> 29°C, <i>Thunderstorm</i></b>
+        Currently, the weather is: <b> 28°C, <i>Slight rain showers</i></b>
         </br>
         Today, the sun rises at <b>05:54 AM</b> and sets at <b>05:25 PM</b>.
     </p>
