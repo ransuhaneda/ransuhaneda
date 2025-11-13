@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Thursday, November 13 at 2:30 AM 
+    Thursday, November 13 at 9:46 AM 
     <p>
-        Currently, the weather is: <b> 27°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 27°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>05:56 AM</b> and sets at <b>05:24 PM</b>.
     </p>
