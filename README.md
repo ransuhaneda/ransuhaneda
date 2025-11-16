@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Sunday, November 16 at 9:50 AM 
+    Sunday, November 16 at 2:30 PM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 31°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>05:57 AM</b> and sets at <b>05:24 PM</b>.
     </p>
