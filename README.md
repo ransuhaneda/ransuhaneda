@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Saturday, November 29 at 8:41 PM 
+    Sunday, November 30 at 2:29 AM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Thunderstorm with slight hail</i></b>
+        Currently, the weather is: <b> 27°C, <i>Partly cloudy</i></b>
         </br>
         Today, the sun rises at <b>06:04 AM</b> and sets at <b>05:24 PM</b>.
     </p>
