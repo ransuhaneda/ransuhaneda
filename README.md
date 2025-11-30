@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Sunday, November 30 at 2:32 PM 
+    Sunday, November 30 at 8:41 PM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Mainly clear</i></b>
+        Currently, the weather is: <b> 28°C, <i>Slight rain showers</i></b>
         </br>
         Today, the sun rises at <b>06:04 AM</b> and sets at <b>05:24 PM</b>.
     </p>
