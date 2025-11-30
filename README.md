@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Sunday, November 30 at 8:41 PM 
+    Monday, December 1 at 2:29 AM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Slight rain showers</i></b>
+        Currently, the weather is: <b> 27°C, <i>Overcast</i></b>
         </br>
-        Today, the sun rises at <b>06:04 AM</b> and sets at <b>05:24 PM</b>.
+        Today, the sun rises at <b>06:05 AM</b> and sets at <b>05:24 PM</b>.
     </p>
 </div>
