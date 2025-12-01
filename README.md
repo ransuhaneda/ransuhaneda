@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Monday, December 1 at 8:49 PM 
+    Tuesday, December 2 at 2:36 AM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Thunderstorm with slight hail</i></b>
+        Currently, the weather is: <b> 27°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>06:05 AM</b> and sets at <b>05:24 PM</b>.
     </p>
