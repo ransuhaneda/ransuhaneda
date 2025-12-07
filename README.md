@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Sunday, December 7 at 2:29 AM 
+    Sunday, December 7 at 9:56 AM 
     <p>
-        Currently, the weather is: <b> 26°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 27°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>06:08 AM</b> and sets at <b>05:26 PM</b>.
     </p>
