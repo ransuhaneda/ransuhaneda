@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Tuesday, December 9 at 8:49 PM 
+    Wednesday, December 10 at 2:30 AM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> °C, <i></i></b>
         </br>
-        Today, the sun rises at <b>06:09 AM</b> and sets at <b>05:26 PM</b>.
+        Today, the sun rises at <b></b> and sets at <b></b>.
     </p>
 </div>
