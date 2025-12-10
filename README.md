@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Wednesday, December 10 at 8:50 PM 
+    Thursday, December 11 at 2:33 AM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Mainly clear</i></b>
+        Currently, the weather is: <b> 28°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>06:10 AM</b> and sets at <b>05:27 PM</b>.
     </p>
