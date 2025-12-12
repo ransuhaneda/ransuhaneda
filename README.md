@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Friday, December 12 at 8:49 PM 
+    Saturday, December 13 at 2:34 AM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 27°C, <i>Partly cloudy</i></b>
         </br>
-        Today, the sun rises at <b>06:11 AM</b> and sets at <b>05:27 PM</b>.
+        Today, the sun rises at <b>06:11 AM</b> and sets at <b>05:28 PM</b>.
     </p>
 </div>
