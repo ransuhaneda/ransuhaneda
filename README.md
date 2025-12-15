@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Monday, December 15 at 2:30 AM 
+    Monday, December 15 at 9:55 AM 
     <p>
-        Currently, the weather is: <b> 26°C, <i>Mainly clear</i></b>
+        Currently, the weather is: <b> 28°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>06:13 AM</b> and sets at <b>05:29 PM</b>.
     </p>
