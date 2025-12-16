@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Tuesday, December 16 at 8:50 PM 
+    Wednesday, December 17 at 2:35 AM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 27°C, <i>Overcast</i></b>
         </br>
-        Today, the sun rises at <b>06:13 AM</b> and sets at <b>05:29 PM</b>.
+        Today, the sun rises at <b>06:14 AM</b> and sets at <b>05:29 PM</b>.
     </p>
 </div>
