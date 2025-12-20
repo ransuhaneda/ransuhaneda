@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Saturday, December 20 at 8:42 PM 
+    Sunday, December 21 at 2:29 AM 
     <p>
-        Currently, the weather is: <b> 27°C, <i>Thunderstorm</i></b>
+        Currently, the weather is: <b> 26°C, <i>Overcast</i></b>
         </br>
-        Today, the sun rises at <b>06:15 AM</b> and sets at <b>05:31 PM</b>.
+        Today, the sun rises at <b>06:16 AM</b> and sets at <b>05:31 PM</b>.
     </p>
 </div>
