@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Sunday, December 21 at 9:57 AM 
+    Sunday, December 21 at 2:33 PM 
     <p>
-        Currently, the weather is: <b> 27°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 28°C, <i>Slight rain showers</i></b>
         </br>
         Today, the sun rises at <b>06:16 AM</b> and sets at <b>05:31 PM</b>.
     </p>
