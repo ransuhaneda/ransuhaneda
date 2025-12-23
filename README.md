@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Tuesday, December 23 at 2:37 PM 
+    Tuesday, December 23 at 8:49 PM 
     <p>
-        Currently, the weather is: <b> 29°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 27°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>06:17 AM</b> and sets at <b>05:32 PM</b>.
     </p>
