@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Thursday, December 25 at 2:33 AM 
+    Thursday, December 25 at 9:52 AM 
     <p>
-        Currently, the weather is: <b> 27°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 27°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>06:18 AM</b> and sets at <b>05:33 PM</b>.
     </p>
