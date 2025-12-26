@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Friday, December 26 at 2:32 AM 
+    Friday, December 26 at 9:51 AM 
     <p>
-        Currently, the weather is: <b> 26°C, <i>Mainly clear</i></b>
+        Currently, the weather is: <b> 26°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>06:18 AM</b> and sets at <b>05:34 PM</b>.
     </p>
