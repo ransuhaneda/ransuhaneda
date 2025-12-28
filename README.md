@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Sunday, December 28 at 2:34 PM 
+    Sunday, December 28 at 8:44 PM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Mainly clear</i></b>
+        Currently, the weather is: <b> 28°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>06:19 AM</b> and sets at <b>05:35 PM</b>.
     </p>
