@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Monday, December 29 at 2:32 AM 
+    Monday, December 29 at 10:01 AM 
     <p>
-        Currently, the weather is: <b> 27°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 26°C, <i>Partly cloudy</i></b>
         </br>
         Today, the sun rises at <b>06:19 AM</b> and sets at <b>05:36 PM</b>.
     </p>
