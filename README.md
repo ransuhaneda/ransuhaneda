@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Tuesday, December 30 at 2:37 PM 
+    Tuesday, December 30 at 8:50 PM 
     <p>
-        Currently, the weather is: <b> °C, <i></i></b>
+        Currently, the weather is: <b> 28°C, <i>Overcast</i></b>
         </br>
-        Today, the sun rises at <b></b> and sets at <b></b>.
+        Today, the sun rises at <b>06:20 AM</b> and sets at <b>05:36 PM</b>.
     </p>
 </div>
