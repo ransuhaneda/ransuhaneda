@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Thursday, January 1 at 2:37 PM 
+    Thursday, January 1 at 8:48 PM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 27°C, <i>Thunderstorm</i></b>
         </br>
         Today, the sun rises at <b>06:21 AM</b> and sets at <b>05:37 PM</b>.
     </p>
