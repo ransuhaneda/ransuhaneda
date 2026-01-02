@@ -64,7 +64,7 @@
 ###
 
 <div align="center">
-    Friday, January 2 at 8:46 PM 
+    Saturday, January 3 at 2:32 AM 
     <p>
         Currently, the weather is: <b> 26°C, <i>Overcast</i></b>
         </br>
