@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Friday, January 2 at 2:37 PM 
+    Friday, January 2 at 8:46 PM 
     <p>
-        Currently, the weather is: <b> 26°C, <i>Slight rain showers</i></b>
+        Currently, the weather is: <b> 26°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>06:21 AM</b> and sets at <b>05:38 PM</b>.
     </p>
