@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Monday, January 5 at 2:32 AM 
+    Monday, January 5 at 10:04 AM 
     <p>
-        Currently, the weather is: <b> 25°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 25°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>06:22 AM</b> and sets at <b>05:39 PM</b>.
     </p>
