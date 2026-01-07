@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Wednesday, January 7 at 8:51 PM 
+    Thursday, January 8 at 2:36 AM 
     <p>
-        Currently, the weather is: <b> 27°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 25°C, <i>Overcast</i></b>
         </br>
-        Today, the sun rises at <b>06:22 AM</b> and sets at <b>05:41 PM</b>.
+        Today, the sun rises at <b>06:23 AM</b> and sets at <b>05:41 PM</b>.
     </p>
 </div>
