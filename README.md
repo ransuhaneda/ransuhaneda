@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Saturday, January 10 at 2:33 PM 
+    Saturday, January 10 at 8:44 PM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 27°C, <i>Slight rain</i></b>
         </br>
         Today, the sun rises at <b>06:23 AM</b> and sets at <b>05:42 PM</b>.
     </p>
