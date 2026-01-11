@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Sunday, January 11 at 2:35 PM 
+    Sunday, January 11 at 8:45 PM 
     <p>
-        Currently, the weather is: <b> 27°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 24°C, <i>Moderate rain</i></b>
         </br>
         Today, the sun rises at <b>06:23 AM</b> and sets at <b>05:43 PM</b>.
     </p>
