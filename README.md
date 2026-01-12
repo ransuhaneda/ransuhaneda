@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Monday, January 12 at 2:32 AM 
+    Monday, January 12 at 10:00 AM 
     <p>
-        Currently, the weather is: <b> 26°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 26°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>06:24 AM</b> and sets at <b>05:44 PM</b>.
     </p>
