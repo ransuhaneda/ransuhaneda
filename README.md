@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Tuesday, January 13 at 2:37 PM 
+    Tuesday, January 13 at 8:53 PM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 27°C, <i>Slight rain showers</i></b>
         </br>
         Today, the sun rises at <b>06:24 AM</b> and sets at <b>05:44 PM</b>.
     </p>
