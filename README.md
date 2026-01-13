@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Tuesday, January 13 at 8:53 PM 
+    Wednesday, January 14 at 2:34 AM 
     <p>
-        Currently, the weather is: <b> 27°C, <i>Slight rain showers</i></b>
+        Currently, the weather is: <b> 26°C, <i>Overcast</i></b>
         </br>
-        Today, the sun rises at <b>06:24 AM</b> and sets at <b>05:44 PM</b>.
+        Today, the sun rises at <b>06:24 AM</b> and sets at <b>05:45 PM</b>.
     </p>
 </div>
