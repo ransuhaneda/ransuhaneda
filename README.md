@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Wednesday, January 14 at 2:37 PM 
+    Wednesday, January 14 at 8:52 PM 
     <p>
-        Currently, the weather is: <b> 27°C, <i>Clear sky</i></b>
+        Currently, the weather is: <b> 27°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>06:24 AM</b> and sets at <b>05:45 PM</b>.
     </p>
