@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Friday, January 16 at 2:38 PM 
+    Friday, January 16 at 8:50 PM 
     <p>
-        Currently, the weather is: <b> 27°C, <i>Mainly clear</i></b>
+        Currently, the weather is: <b> 28°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>06:24 AM</b> and sets at <b>05:46 PM</b>.
     </p>
