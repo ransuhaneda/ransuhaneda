@@ -64,7 +64,7 @@
 ###
 
 <div align="center">
-    Saturday, January 17 at 2:34 PM 
+    Saturday, January 17 at 8:44 PM 
     <p>
         Currently, the weather is: <b> 27°C, <i>Overcast</i></b>
         </br>
