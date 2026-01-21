@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Wednesday, January 21 at 2:40 AM 
+    Wednesday, January 21 at 9:59 AM 
     <p>
-        Currently, the weather is: <b> 26°C, <i>Slight rain showers</i></b>
+        Currently, the weather is: <b> 25°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>06:25 AM</b> and sets at <b>05:49 PM</b>.
     </p>
