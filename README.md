@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Monday, January 26 at 2:33 AM 
+    Monday, January 26 at 10:05 AM 
     <p>
-        Currently, the weather is: <b> 25°C, <i>Mainly clear</i></b>
+        Currently, the weather is: <b> 25°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>06:25 AM</b> and sets at <b>05:51 PM</b>.
     </p>
