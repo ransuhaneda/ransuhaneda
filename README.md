@@ -64,7 +64,7 @@
 ###
 
 <div align="center">
-    Sunday, February 8 at 2:54 PM 
+    Sunday, February 8 at 8:55 PM 
     <p>
         Currently, the weather is: <b> 27°C, <i>Overcast</i></b>
         </br>
