@@ -64,7 +64,7 @@
 ###
 
 <div align="center">
-    Monday, February 9 at 10:30 AM 
+    Monday, February 9 at 3:07 PM 
     <p>
         Currently, the weather is: <b> 27°C, <i>Overcast</i></b>
         </br>
