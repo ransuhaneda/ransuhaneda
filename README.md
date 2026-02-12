@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Thursday, February 12 at 3:04 PM 
+    Thursday, February 12 at 9:13 PM 
     <p>
-        Currently, the weather is: <b> 29°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 27°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>06:21 AM</b> and sets at <b>05:59 PM</b>.
     </p>
