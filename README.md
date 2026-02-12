@@ -64,7 +64,7 @@
 ###
 
 <div align="center">
-    Thursday, February 12 at 3:06 AM 
+    Thursday, February 12 at 10:30 AM 
     <p>
         Currently, the weather is: <b> 26°C, <i>Overcast</i></b>
         </br>
