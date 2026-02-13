@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Friday, February 13 at 10:32 AM 
+    Friday, February 13 at 3:02 PM 
     <p>
-        Currently, the weather is: <b> 27°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 29°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>06:20 AM</b> and sets at <b>05:59 PM</b>.
     </p>
