@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Tuesday, February 24 at 10:25 AM 
+    Tuesday, February 24 at 3:03 PM 
     <p>
-        Currently, the weather is: <b> 26°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 28°C, <i>Partly cloudy</i></b>
         </br>
         Today, the sun rises at <b>06:15 AM</b> and sets at <b>06:02 PM</b>.
     </p>
