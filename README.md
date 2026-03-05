@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Thursday, March 5 at 9:05 PM 
+    Friday, March 6 at 3:18 AM 
     <p>
-        Currently, the weather is: <b> °C, <i></i></b>
+        Currently, the weather is: <b> 27°C, <i>Partly cloudy</i></b>
         </br>
-        Today, the sun rises at <b></b> and sets at <b></b>.
+        Today, the sun rises at <b>06:09 AM</b> and sets at <b>06:04 PM</b>.
     </p>
 </div>
