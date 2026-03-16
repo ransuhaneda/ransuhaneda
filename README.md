@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Monday, March 16 at 2:41 AM 
+    Monday, March 16 at 10:39 AM 
     <p>
-        Currently, the weather is: <b> 24°C, <i>Mainly clear</i></b>
+        Currently, the weather is: <b> 24°C, <i>Partly cloudy</i></b>
         </br>
         Today, the sun rises at <b>06:03 AM</b> and sets at <b>06:06 PM</b>.
     </p>
