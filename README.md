@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Thursday, March 19 at 3:01 PM 
+    Thursday, March 19 at 9:10 PM 
     <p>
-        Currently, the weather is: <b> °C, <i></i></b>
+        Currently, the weather is: <b> 27°C, <i>Mainly clear</i></b>
         </br>
-        Today, the sun rises at <b></b> and sets at <b></b>.
+        Today, the sun rises at <b>06:00 AM</b> and sets at <b>06:06 PM</b>.
     </p>
 </div>
