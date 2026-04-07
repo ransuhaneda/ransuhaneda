@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Tuesday, April 7 at 10:38 AM 
+    Tuesday, April 7 at 3:21 PM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Clear sky</i></b>
+        Currently, the weather is: <b> °C, <i></i></b>
         </br>
-        Today, the sun rises at <b>05:47 AM</b> and sets at <b>06:08 PM</b>.
+        Today, the sun rises at <b></b> and sets at <b></b>.
     </p>
 </div>
