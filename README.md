@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Wednesday, April 8 at 3:24 PM 
+    Wednesday, April 8 at 9:24 PM 
     <p>
-        Currently, the weather is: <b> 30°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 29°C, <i>Clear sky</i></b>
         </br>
         Today, the sun rises at <b>05:46 AM</b> and sets at <b>06:08 PM</b>.
     </p>
