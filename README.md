@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Friday, April 17 at 3:19 AM 
+    Friday, April 17 at 10:47 AM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 28°C, <i>Clear sky</i></b>
         </br>
         Today, the sun rises at <b>05:41 AM</b> and sets at <b>06:10 PM</b>.
     </p>
