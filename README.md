@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Friday, April 17 at 9:24 PM 
+    Saturday, April 18 at 3:04 AM 
     <p>
-        Currently, the weather is: <b> 29°C, <i>Mainly clear</i></b>
+        Currently, the weather is: <b> 28°C, <i>Slight rain showers</i></b>
         </br>
-        Today, the sun rises at <b>05:41 AM</b> and sets at <b>06:10 PM</b>.
+        Today, the sun rises at <b>05:40 AM</b> and sets at <b>06:10 PM</b>.
     </p>
 </div>
