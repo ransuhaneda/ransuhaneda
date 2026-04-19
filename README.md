@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Sunday, April 19 at 9:06 PM 
+    Monday, April 20 at 2:55 AM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 26°C, <i>Slight rain showers</i></b>
         </br>
         Today, the sun rises at <b>05:39 AM</b> and sets at <b>06:10 PM</b>.
     </p>
