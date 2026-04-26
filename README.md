@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Sunday, April 26 at 9:12 PM 
+    Monday, April 27 at 2:58 AM 
     <p>
-        Currently, the weather is: <b> 30°C, <i>Mainly clear</i></b>
+        Currently, the weather is: <b> 28°C, <i>Clear sky</i></b>
         </br>
         Today, the sun rises at <b>05:35 AM</b> and sets at <b>06:11 PM</b>.
     </p>
