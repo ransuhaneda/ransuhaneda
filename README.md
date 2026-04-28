@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Tuesday, April 28 at 4:28 PM 
+    Tuesday, April 28 at 10:13 PM 
     <p>
-        Currently, the weather is: <b> 34°C, <i>Light drizzle</i></b>
+        Currently, the weather is: <b> 27°C, <i>Partly cloudy</i></b>
         </br>
         Today, the sun rises at <b>05:34 AM</b> and sets at <b>06:12 PM</b>.
     </p>
