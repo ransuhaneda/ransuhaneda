@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Thursday, April 30 at 4:25 PM 
+    Thursday, April 30 at 10:01 PM 
     <p>
-        Currently, the weather is: <b> 36°C, <i>Mainly clear</i></b>
+        Currently, the weather is: <b> 30°C, <i>Clear sky</i></b>
         </br>
         Today, the sun rises at <b>05:33 AM</b> and sets at <b>06:12 PM</b>.
     </p>
