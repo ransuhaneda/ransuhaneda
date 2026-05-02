@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Saturday, May 2 at 9:17 PM 
+    Sunday, May 3 at 3:02 AM 
     <p>
-        Currently, the weather is: <b> 30°C, <i>Mainly clear</i></b>
+        Currently, the weather is: <b> 28°C, <i>Overcast</i></b>
         </br>
-        Today, the sun rises at <b>05:32 AM</b> and sets at <b>06:12 PM</b>.
+        Today, the sun rises at <b>05:32 AM</b> and sets at <b>06:13 PM</b>.
     </p>
 </div>
