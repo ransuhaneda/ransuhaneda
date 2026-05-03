@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Sunday, May 3 at 11:30 AM 
+    Sunday, May 3 at 4:03 PM 
     <p>
-        Currently, the weather is: <b> 35°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 37°C, <i>Mainly clear</i></b>
         </br>
         Today, the sun rises at <b>05:32 AM</b> and sets at <b>06:13 PM</b>.
     </p>
