@@ -17,14 +17,12 @@ jobs:
         uses: szenius/set-timezone@v2.0
         with:
           timezoneLinux: "Asia/Singapore"
-          # timezoneMacos: "Asia/Singapore"
-          # timezoneWindows: "Singapore Standard Time"
 
       - name: Checkout branch
         uses: actions/checkout@v4
 
       - name: Install pnpm
-        uses: pnpm/action-setup@v2
+        uses: pnpm/action-setup@v3
         with:
           version: latest
 
@@ -32,13 +30,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "22"
-          cache: "pnpm"
-
-      - name: Cache dependencies and build outputs to improve workflow execution time.
-        uses: actions/cache@v4
-        with:
-          path: node_modules
-          key: ${{ runner.os }}-js-${{ hashFiles('pnpm-lock.yaml') }}
+          cache: "pnpm" 
 
       - name: Install dependencies
         run: pnpm install
