@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Friday, May 15 at 4:51 PM 
+    Friday, May 15 at 10:11 PM 
     <p>
-        Currently, the weather is: <b> 33°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 30°C, <i>Light drizzle</i></b>
         </br>
         Today, the sun rises at <b>05:28 AM</b> and sets at <b>06:16 PM</b>.
     </p>
