@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Thursday, May 7 at 4:36 PM 
+    Friday, May 15 at 2:43 PM 
     <p>
-        Currently, the weather is: <b> 36°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 36°C, <i>Overcast</i></b>
         </br>
-        Today, the sun rises at <b>05:30 AM</b> and sets at <b>06:14 PM</b>.
+        Today, the sun rises at <b>05:28 AM</b> and sets at <b>06:16 PM</b>.
     </p>
 </div>
