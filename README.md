@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Saturday, May 16 at 4:07 PM 
+    Saturday, May 16 at 9:26 PM 
     <p>
-        Currently, the weather is: <b> 29°C, <i>Slight rain showers</i></b>
+        Currently, the weather is: <b> 29°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>05:27 AM</b> and sets at <b>06:16 PM</b>.
     </p>
