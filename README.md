@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Sunday, May 17 at 11:39 AM 
+    Sunday, May 17 at 4:23 PM 
     <p>
-        Currently, the weather is: <b> 33°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 28°C, <i>Moderate rain showers</i></b>
         </br>
         Today, the sun rises at <b>05:27 AM</b> and sets at <b>06:17 PM</b>.
     </p>
