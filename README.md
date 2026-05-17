@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Sunday, May 17 at 9:25 PM 
+    Monday, May 18 at 3:12 AM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Mainly clear</i></b>
+        Currently, the weather is: <b> 27°C, <i>Clear sky</i></b>
         </br>
         Today, the sun rises at <b>05:27 AM</b> and sets at <b>06:17 PM</b>.
     </p>
