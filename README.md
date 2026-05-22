@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Friday, May 22 at 11:53 AM 
+    Friday, May 22 at 5:30 PM 
     <p>
-        Currently, the weather is: <b> 36°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 34°C, <i>Mainly clear</i></b>
         </br>
         Today, the sun rises at <b>05:26 AM</b> and sets at <b>06:18 PM</b>.
     </p>
