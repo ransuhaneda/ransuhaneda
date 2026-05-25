@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Monday, May 25 at 12:03 PM 
+    Monday, May 25 at 6:12 PM 
     <p>
-        Currently, the weather is: <b> 36°C, <i>Light drizzle</i></b>
+        Currently, the weather is: <b> 32°C, <i>Dense drizzle</i></b>
         </br>
         Today, the sun rises at <b>05:26 AM</b> and sets at <b>06:19 PM</b>.
     </p>
