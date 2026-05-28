@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Thursday, May 28 at 11:50 AM 
+    Thursday, May 28 at 6:05 PM 
     <p>
-        Currently, the weather is: <b> 35°C, <i>Light drizzle</i></b>
+        Currently, the weather is: <b> 28°C, <i>Moderate rain showers</i></b>
         </br>
         Today, the sun rises at <b>05:25 AM</b> and sets at <b>06:20 PM</b>.
     </p>
