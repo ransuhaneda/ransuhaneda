@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Sunday, May 31 at 9:48 PM 
+    Monday, June 1 at 3:19 AM 
     <p>
-        Currently, the weather is: <b> 29°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 27°C, <i>Dense drizzle</i></b>
         </br>
         Today, the sun rises at <b>05:25 AM</b> and sets at <b>06:21 PM</b>.
     </p>
