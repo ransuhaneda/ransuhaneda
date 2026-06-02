@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Tuesday, June 2 at 6:27 PM 
+    Wednesday, June 3 at 12:36 AM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 26°C, <i>Moderate rain showers</i></b>
         </br>
         Today, the sun rises at <b>05:25 AM</b> and sets at <b>06:22 PM</b>.
     </p>
