@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Thursday, June 4 at 12:53 AM 
+    Thursday, June 4 at 4:57 AM 
     <p>
-        Currently, the weather is: <b> 27°C, <i>Light drizzle</i></b>
+        Currently, the weather is: <b> 26°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>05:25 AM</b> and sets at <b>06:22 PM</b>.
     </p>
