@@ -64,7 +64,7 @@
 ###
 
 <div align="center">
-    Wednesday, June 3 at 7:03 PM 
+    Thursday, June 4 at 12:53 AM 
     <p>
         Currently, the weather is: <b> 27°C, <i>Light drizzle</i></b>
         </br>
