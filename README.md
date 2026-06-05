@@ -64,7 +64,7 @@
 ###
 
 <div align="center">
-    Friday, June 5 at 10:55 PM 
+    Saturday, June 6 at 3:57 AM 
     <p>
         Currently, the weather is: <b> 26°C, <i>Light drizzle</i></b>
         </br>
