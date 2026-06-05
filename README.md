@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Friday, June 5 at 5:54 PM 
+    Friday, June 5 at 10:55 PM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 26°C, <i>Light drizzle</i></b>
         </br>
         Today, the sun rises at <b>05:25 AM</b> and sets at <b>06:23 PM</b>.
     </p>
