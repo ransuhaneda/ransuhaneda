@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Monday, June 8 at 6:59 PM 
+    Monday, June 8 at 11:56 PM 
     <p>
-        Currently, the weather is: <b> 29°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 28°C, <i>Thunderstorm</i></b>
         </br>
         Today, the sun rises at <b>05:25 AM</b> and sets at <b>06:23 PM</b>.
     </p>
