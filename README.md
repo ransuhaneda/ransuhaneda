@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Wednesday, June 10 at 11:57 AM 
+    Wednesday, June 10 at 6:05 PM 
     <p>
-        Currently, the weather is: <b> 33°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 30°C, <i>Partly cloudy</i></b>
         </br>
         Today, the sun rises at <b>05:26 AM</b> and sets at <b>06:24 PM</b>.
     </p>
