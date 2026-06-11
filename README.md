@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Thursday, June 11 at 12:10 PM 
+    Thursday, June 11 at 6:39 PM 
     <p>
-        Currently, the weather is: <b> 33°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> °C, <i></i></b>
         </br>
-        Today, the sun rises at <b>05:26 AM</b> and sets at <b>06:24 PM</b>.
+        Today, the sun rises at <b></b> and sets at <b></b>.
     </p>
 </div>
