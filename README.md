@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Thursday, June 18 at 12:12 PM 
+    Thursday, June 18 at 6:23 PM 
     <p>
-        Currently, the weather is: <b> 35°C, <i>Light drizzle</i></b>
+        Currently, the weather is: <b> 32°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>05:27 AM</b> and sets at <b>06:26 PM</b>.
     </p>
