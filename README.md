@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Saturday, June 20 at 5:18 PM 
+    Saturday, June 20 at 10:08 PM 
     <p>
-        Currently, the weather is: <b> 34°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 30°C, <i>Thunderstorm</i></b>
         </br>
         Today, the sun rises at <b>05:27 AM</b> and sets at <b>06:27 PM</b>.
     </p>
