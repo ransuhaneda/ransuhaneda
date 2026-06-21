@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Sunday, June 21 at 10:15 PM 
+    Monday, June 22 at 3:45 AM 
     <p>
-        Currently, the weather is: <b> 29°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 27°C, <i>Overcast</i></b>
         </br>
-        Today, the sun rises at <b>05:27 AM</b> and sets at <b>06:27 PM</b>.
+        Today, the sun rises at <b>05:28 AM</b> and sets at <b>06:27 PM</b>.
     </p>
 </div>
