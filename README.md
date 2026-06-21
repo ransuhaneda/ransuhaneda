@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Sunday, June 21 at 12:25 PM 
+    Sunday, June 21 at 5:52 PM 
     <p>
-        Currently, the weather is: <b> 36°C, <i>Mainly clear</i></b>
+        Currently, the weather is: <b> °C, <i></i></b>
         </br>
-        Today, the sun rises at <b>05:27 AM</b> and sets at <b>06:27 PM</b>.
+        Today, the sun rises at <b></b> and sets at <b></b>.
     </p>
 </div>
