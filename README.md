@@ -64,7 +64,7 @@
 ###
 
 <div align="center">
-    Thursday, June 25 at 11:49 AM 
+    Thursday, June 25 at 5:25 PM 
     <p>
         Currently, the weather is: <b> 30°C, <i>Thunderstorm</i></b>
         </br>
