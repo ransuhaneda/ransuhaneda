@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Thursday, June 25 at 3:49 AM 
+    Thursday, June 25 at 11:49 AM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Light drizzle</i></b>
+        Currently, the weather is: <b> 30°C, <i>Thunderstorm</i></b>
         </br>
         Today, the sun rises at <b>05:28 AM</b> and sets at <b>06:28 PM</b>.
     </p>
