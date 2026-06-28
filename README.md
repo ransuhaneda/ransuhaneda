@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Sunday, June 28 at 3:23 AM 
+    Sunday, June 28 at 12:02 PM 
     <p>
-        Currently, the weather is: <b> °C, <i></i></b>
+        Currently, the weather is: <b> 30°C, <i>Overcast</i></b>
         </br>
-        Today, the sun rises at <b></b> and sets at <b></b>.
+        Today, the sun rises at <b>05:29 AM</b> and sets at <b>06:28 PM</b>.
     </p>
 </div>
