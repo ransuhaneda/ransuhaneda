@@ -64,7 +64,7 @@
 ###
 
 <div align="center">
-    Sunday, June 28 at 12:02 PM 
+    Sunday, June 28 at 4:55 PM 
     <p>
         Currently, the weather is: <b> 30°C, <i>Overcast</i></b>
         </br>
