@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Monday, June 29 at 3:23 AM 
+    Monday, June 29 at 12:09 PM 
     <p>
-        Currently, the weather is: <b> 27°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 31°C, <i>Thunderstorm</i></b>
         </br>
         Today, the sun rises at <b>05:29 AM</b> and sets at <b>06:28 PM</b>.
     </p>
