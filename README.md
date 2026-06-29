@@ -64,7 +64,7 @@
 ###
 
 <div align="center">
-    Monday, June 29 at 7:03 PM 
+    Monday, June 29 at 11:50 PM 
     <p>
         Currently, the weather is: <b> 26°C, <i>Light drizzle</i></b>
         </br>
