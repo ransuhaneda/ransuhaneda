@@ -64,7 +64,7 @@
 ###
 
 <div align="center">
-    Tuesday, June 30 at 10:23 PM 
+    Wednesday, July 1 at 4:00 AM 
     <p>
         Currently, the weather is: <b> 26°C, <i>Overcast</i></b>
         </br>
