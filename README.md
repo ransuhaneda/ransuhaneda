@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Tuesday, June 30 at 11:52 AM 
+    Tuesday, June 30 at 5:40 PM 
     <p>
-        Currently, the weather is: <b> 29°C, <i>Thunderstorm</i></b>
+        Currently, the weather is: <b> 25°C, <i>Thunderstorm</i></b>
         </br>
         Today, the sun rises at <b>05:30 AM</b> and sets at <b>06:29 PM</b>.
     </p>
