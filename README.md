@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Wednesday, July 1 at 4:00 AM 
+    Wednesday, July 1 at 12:06 PM 
     <p>
-        Currently, the weather is: <b> 26°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 29°C, <i>Thunderstorm</i></b>
         </br>
         Today, the sun rises at <b>05:30 AM</b> and sets at <b>06:29 PM</b>.
     </p>
