@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Friday, July 3 at 10:09 PM 
+    Saturday, July 4 at 3:25 AM 
     <p>
-        Currently, the weather is: <b> °C, <i></i></b>
+        Currently, the weather is: <b> 26°C, <i>Clear sky</i></b>
         </br>
-        Today, the sun rises at <b></b> and sets at <b></b>.
+        Today, the sun rises at <b>05:31 AM</b> and sets at <b>06:29 PM</b>.
     </p>
 </div>
