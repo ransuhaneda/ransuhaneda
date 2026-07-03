@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Friday, July 3 at 11:28 AM 
+    Friday, July 3 at 5:20 PM 
     <p>
-        Currently, the weather is: <b> °C, <i></i></b>
+        Currently, the weather is: <b> 32°C, <i>Light drizzle</i></b>
         </br>
-        Today, the sun rises at <b></b> and sets at <b></b>.
+        Today, the sun rises at <b>05:30 AM</b> and sets at <b>06:29 PM</b>.
     </p>
 </div>
