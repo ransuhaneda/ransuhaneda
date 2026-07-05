@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Sunday, July 5 at 11:37 AM 
+    Sunday, July 5 at 4:54 PM 
     <p>
-        Currently, the weather is: <b> 33°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 32°C, <i>Moderate drizzle</i></b>
         </br>
         Today, the sun rises at <b>05:31 AM</b> and sets at <b>06:29 PM</b>.
     </p>
