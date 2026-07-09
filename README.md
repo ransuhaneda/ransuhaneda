@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Thursday, July 9 at 5:42 PM 
+    Thursday, July 9 at 11:13 PM 
     <p>
-        Currently, the weather is: <b> 30°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 28°C, <i>Light drizzle</i></b>
         </br>
         Today, the sun rises at <b>05:32 AM</b> and sets at <b>06:29 PM</b>.
     </p>
