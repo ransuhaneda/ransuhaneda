@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Saturday, July 11 at 10:47 AM 
+    Saturday, July 11 at 3:58 PM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Thunderstorm</i></b>
+        Currently, the weather is: <b> 28°C, <i>Slight rain showers</i></b>
         </br>
         Today, the sun rises at <b>05:33 AM</b> and sets at <b>06:29 PM</b>.
     </p>
