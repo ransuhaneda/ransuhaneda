@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Sunday, July 12 at 9:23 PM 
+    Monday, July 13 at 3:07 AM 
     <p>
-        Currently, the weather is: <b> °C, <i></i></b>
+        Currently, the weather is: <b> 25°C, <i>Overcast</i></b>
         </br>
-        Today, the sun rises at <b></b> and sets at <b></b>.
+        Today, the sun rises at <b>05:33 AM</b> and sets at <b>06:29 PM</b>.
     </p>
 </div>
