@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Friday, July 17 at 10:47 AM 
+    Friday, July 17 at 4:12 PM 
     <p>
-        Currently, the weather is: <b> 32°C, <i>Clear sky</i></b>
+        Currently, the weather is: <b> 32°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>05:35 AM</b> and sets at <b>06:29 PM</b>.
     </p>
