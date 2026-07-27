@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Monday, July 27 at 5:54 PM 
+    Monday, July 27 at 10:38 PM 
     <p>
-        Currently, the weather is: <b> 29°C, <i>Light drizzle</i></b>
+        Currently, the weather is: <b> 27°C, <i>Thunderstorm</i></b>
         </br>
         Today, the sun rises at <b>05:37 AM</b> and sets at <b>06:26 PM</b>.
     </p>
