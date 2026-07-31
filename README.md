@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Friday, July 31 at 4:51 PM 
+    Friday, July 31 at 10:10 PM 
     <p>
-        Currently, the weather is: <b> 27°C, <i>Light drizzle</i></b>
+        Currently, the weather is: <b> 27°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>05:38 AM</b> and sets at <b>06:25 PM</b>.
     </p>
