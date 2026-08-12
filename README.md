@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Wednesday, August 12 at 3:26 PM 
+    Wednesday, August 12 at 9:12 PM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Thunderstorm</i></b>
+        Currently, the weather is: <b> 27°C, <i>Moderate rain showers</i></b>
         </br>
         Today, the sun rises at <b>05:41 AM</b> and sets at <b>06:20 PM</b>.
     </p>
