@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Friday, August 28 at 5:56 AM 
+    Friday, August 28 at 6:10 PM 
     <p>
-        Currently, the weather is: <b> 26°C, <i>Moderate drizzle</i></b>
+        Currently, the weather is: <b> 26°C, <i>Slight rain showers</i></b>
         </br>
         Today, the sun rises at <b>05:43 AM</b> and sets at <b>06:10 PM</b>.
     </p>
