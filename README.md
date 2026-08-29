@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Sunday, August 30 at 12:22 AM 
+    Sunday, August 30 at 4:35 AM 
     <p>
-        Currently, the weather is: <b> 26°C, <i>Light drizzle</i></b>
+        Currently, the weather is: <b> 26°C, <i>Moderate drizzle</i></b>
         </br>
         Today, the sun rises at <b>05:43 AM</b> and sets at <b>06:09 PM</b>.
     </p>
