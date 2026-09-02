@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Wednesday, September 2 at 6:51 PM 
+    Thursday, September 3 at 12:09 AM 
     <p>
-        Currently, the weather is: <b> 27°C, <i>Light drizzle</i></b>
+        Currently, the weather is: <b> 27°C, <i>Dense drizzle</i></b>
         </br>
-        Today, the sun rises at <b>05:43 AM</b> and sets at <b>06:07 PM</b>.
+        Today, the sun rises at <b>05:43 AM</b> and sets at <b>06:06 PM</b>.
     </p>
 </div>
