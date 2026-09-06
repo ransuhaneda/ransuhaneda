@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Sunday, September 6 at 4:03 AM 
+    Sunday, September 6 at 11:30 AM 
     <p>
-        Currently, the weather is: <b> 25°C, <i>Light drizzle</i></b>
+        Currently, the weather is: <b> 29°C, <i>Partly cloudy</i></b>
         </br>
         Today, the sun rises at <b>05:44 AM</b> and sets at <b>06:04 PM</b>.
     </p>
