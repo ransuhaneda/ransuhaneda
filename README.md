@@ -64,7 +64,7 @@
 ###
 
 <div align="center">
-    Sunday, September 6 at 6:29 PM 
+    Sunday, September 6 at 11:06 PM 
     <p>
         Currently, the weather is: <b> 27°C, <i>Overcast</i></b>
         </br>
