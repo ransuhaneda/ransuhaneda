@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Tuesday, September 8 at 5:14 AM 
+    Tuesday, September 8 at 11:35 AM 
     <p>
-        Currently, the weather is: <b> 26°C, <i>Light drizzle</i></b>
+        Currently, the weather is: <b> 27°C, <i>Slight rain showers</i></b>
         </br>
         Today, the sun rises at <b>05:44 AM</b> and sets at <b>06:03 PM</b>.
     </p>
