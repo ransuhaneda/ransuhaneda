@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Thursday, September 10 at 11:37 AM 
+    Thursday, September 10 at 6:51 PM 
     <p>
-        Currently, the weather is: <b> 27°C, <i>Light drizzle</i></b>
+        Currently, the weather is: <b> 25°C, <i>Dense drizzle</i></b>
         </br>
         Today, the sun rises at <b>05:44 AM</b> and sets at <b>06:01 PM</b>.
     </p>
