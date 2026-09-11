@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Saturday, September 12 at 12:03 AM 
+    Saturday, September 12 at 4:38 AM 
     <p>
-        Currently, the weather is: <b> 26°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 25°C, <i>Partly cloudy</i></b>
         </br>
         Today, the sun rises at <b>05:44 AM</b> and sets at <b>05:59 PM</b>.
     </p>
