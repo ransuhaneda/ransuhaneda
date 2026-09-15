@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Wednesday, September 16 at 12:30 AM 
+    Wednesday, September 16 at 4:58 AM 
     <p>
-        Currently, the weather is: <b> 26°C, <i>Clear sky</i></b>
+        Currently, the weather is: <b> 26°C, <i>Partly cloudy</i></b>
         </br>
         Today, the sun rises at <b>05:44 AM</b> and sets at <b>05:56 PM</b>.
     </p>
