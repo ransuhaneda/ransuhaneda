@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Wednesday, September 16 at 11:52 AM 
+    Wednesday, September 16 at 7:01 PM 
     <p>
-        Currently, the weather is: <b> 27°C, <i>Slight rain showers</i></b>
+        Currently, the weather is: <b> 25°C, <i>Moderate drizzle</i></b>
         </br>
         Today, the sun rises at <b>05:44 AM</b> and sets at <b>05:56 PM</b>.
     </p>
