@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Thursday, September 17 at 4:59 AM 
+    Thursday, September 17 at 11:57 AM 
     <p>
-        Currently, the weather is: <b> 25°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 27°C, <i>Dense drizzle</i></b>
         </br>
         Today, the sun rises at <b>05:44 AM</b> and sets at <b>05:56 PM</b>.
     </p>
