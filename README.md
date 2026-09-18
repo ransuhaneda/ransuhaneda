@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Friday, September 18 at 11:44 AM 
+    Friday, September 18 at 6:45 PM 
     <p>
-        Currently, the weather is: <b> 30°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 27°C, <i>Partly cloudy</i></b>
         </br>
         Today, the sun rises at <b>05:44 AM</b> and sets at <b>05:55 PM</b>.
     </p>
