@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Friday, September 18 at 6:45 PM 
+    Saturday, September 19 at 12:00 AM 
     <p>
-        Currently, the weather is: <b> 27°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 25°C, <i>Light drizzle</i></b>
         </br>
-        Today, the sun rises at <b>05:44 AM</b> and sets at <b>05:55 PM</b>.
+        Today, the sun rises at <b>05:44 AM</b> and sets at <b>05:54 PM</b>.
     </p>
 </div>
