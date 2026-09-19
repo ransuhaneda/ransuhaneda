@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Saturday, September 19 at 6:29 PM 
+    Saturday, September 19 at 11:33 PM 
     <p>
-        Currently, the weather is: <b> 27°C, <i>Thunderstorm</i></b>
+        Currently, the weather is: <b> 25°C, <i>Partly cloudy</i></b>
         </br>
         Today, the sun rises at <b>05:44 AM</b> and sets at <b>05:54 PM</b>.
     </p>
