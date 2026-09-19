@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Saturday, September 19 at 11:33 PM 
+    Sunday, September 20 at 4:12 AM 
     <p>
-        Currently, the weather is: <b> 25°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 24°C, <i>Overcast</i></b>
         </br>
-        Today, the sun rises at <b>05:44 AM</b> and sets at <b>05:54 PM</b>.
+        Today, the sun rises at <b>05:44 AM</b> and sets at <b>05:53 PM</b>.
     </p>
 </div>
