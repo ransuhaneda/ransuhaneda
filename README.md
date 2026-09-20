@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Sunday, September 20 at 11:57 AM 
+    Sunday, September 20 at 6:51 PM 
     <p>
-        Currently, the weather is: <b> 31°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 28°C, <i>Light drizzle</i></b>
         </br>
         Today, the sun rises at <b>05:44 AM</b> and sets at <b>05:53 PM</b>.
     </p>
