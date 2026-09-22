@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Tuesday, September 22 at 11:52 AM 
+    Tuesday, September 22 at 7:08 PM 
     <p>
-        Currently, the weather is: <b> 31°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 25°C, <i>Moderate drizzle</i></b>
         </br>
         Today, the sun rises at <b>05:44 AM</b> and sets at <b>05:52 PM</b>.
     </p>
