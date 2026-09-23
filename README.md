@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Wednesday, September 23 at 11:49 AM 
+    Wednesday, September 23 at 6:59 PM 
     <p>
-        Currently, the weather is: <b> 31°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 25°C, <i>Moderate drizzle</i></b>
         </br>
         Today, the sun rises at <b>05:45 AM</b> and sets at <b>05:51 PM</b>.
     </p>
