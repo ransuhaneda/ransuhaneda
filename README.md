@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Friday, September 25 at 5:15 AM 
+    Friday, September 25 at 11:58 AM 
     <p>
-        Currently, the weather is: <b> 25°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 32°C, <i>Clear sky</i></b>
         </br>
         Today, the sun rises at <b>05:45 AM</b> and sets at <b>05:50 PM</b>.
     </p>
