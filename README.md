@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Sunday, September 27 at 7:37 PM 
+    Monday, September 28 at 12:35 AM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 26°C, <i>Light drizzle</i></b>
         </br>
-        Today, the sun rises at <b>05:45 AM</b> and sets at <b>05:48 PM</b>.
+        Today, the sun rises at <b>05:45 AM</b> and sets at <b>05:47 PM</b>.
     </p>
 </div>
