@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Thursday, October 1 at 12:45 PM 
+    Thursday, October 1 at 8:39 PM 
     <p>
-        Currently, the weather is: <b> 34°C, <i>Light drizzle</i></b>
+        Currently, the weather is: <b> 27°C, <i>Partly cloudy</i></b>
         </br>
         Today, the sun rises at <b>05:45 AM</b> and sets at <b>05:45 PM</b>.
     </p>
