@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Saturday, October 3 at 12:19 PM 
+    Saturday, October 3 at 7:16 PM 
     <p>
-        Currently, the weather is: <b> 33°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 28°C, <i>Light drizzle</i></b>
         </br>
         Today, the sun rises at <b>05:45 AM</b> and sets at <b>05:44 PM</b>.
     </p>
