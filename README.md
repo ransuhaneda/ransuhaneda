@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Tuesday, October 6 at 7:50 AM 
+    Tuesday, October 6 at 1:25 PM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 30°C, <i>Thunderstorm with slight hail</i></b>
         </br>
         Today, the sun rises at <b>05:45 AM</b> and sets at <b>05:41 PM</b>.
     </p>
