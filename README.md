@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Sunday, October 11 at 5:18 AM 
+    Sunday, October 11 at 12:39 PM 
     <p>
-        Currently, the weather is: <b> 25°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 29°C, <i>Thunderstorm</i></b>
         </br>
         Today, the sun rises at <b>05:46 AM</b> and sets at <b>05:38 PM</b>.
     </p>
