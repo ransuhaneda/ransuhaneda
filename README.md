@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Monday, October 12 at 5:37 AM 
+    Monday, October 12 at 12:55 PM 
     <p>
-        Currently, the weather is: <b> 25°C, <i>Mainly clear</i></b>
+        Currently, the weather is: <b> 28°C, <i>Thunderstorm</i></b>
         </br>
         Today, the sun rises at <b>05:46 AM</b> and sets at <b>05:38 PM</b>.
     </p>
