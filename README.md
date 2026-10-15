@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Friday, October 16 at 12:30 AM 
+    Friday, October 16 at 5:02 AM 
     <p>
-        Currently, the weather is: <b> 26°C, <i>Light drizzle</i></b>
+        Currently, the weather is: <b> 27°C, <i>Partly cloudy</i></b>
         </br>
         Today, the sun rises at <b>05:47 AM</b> and sets at <b>05:35 PM</b>.
     </p>
