@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Wednesday, October 21 at 12:30 AM 
+    Wednesday, October 21 at 5:21 AM 
     <p>
-        Currently, the weather is: <b> 29°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 27°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>05:48 AM</b> and sets at <b>05:32 PM</b>.
     </p>
