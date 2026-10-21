@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Thursday, October 22 at 12:48 AM 
+    Thursday, October 22 at 5:22 AM 
     <p>
-        Currently, the weather is: <b> 27°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 27°C, <i>Overcast</i></b>
         </br>
         Today, the sun rises at <b>05:48 AM</b> and sets at <b>05:32 PM</b>.
     </p>
