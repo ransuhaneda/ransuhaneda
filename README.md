@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Thursday, October 22 at 11:45 AM 
+    Thursday, October 22 at 7:20 PM 
     <p>
-        Currently, the weather is: <b> 33°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 29°C, <i>Moderate drizzle</i></b>
         </br>
         Today, the sun rises at <b>05:48 AM</b> and sets at <b>05:32 PM</b>.
     </p>
