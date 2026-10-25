@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Sunday, October 25 at 6:56 PM 
+    Sunday, October 25 at 11:43 PM 
     <p>
-        Currently, the weather is: <b> 30°C, <i>Clear sky</i></b>
+        Currently, the weather is: <b> 28°C, <i>Partly cloudy</i></b>
         </br>
         Today, the sun rises at <b>05:49 AM</b> and sets at <b>05:30 PM</b>.
     </p>
