@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Friday, October 30 at 12:51 PM 
+    Friday, October 30 at 8:20 PM 
     <p>
-        Currently, the weather is: <b> 32°C, <i>Thunderstorm</i></b>
+        Currently, the weather is: <b> 28°C, <i>Moderate drizzle</i></b>
         </br>
         Today, the sun rises at <b>05:50 AM</b> and sets at <b>05:28 PM</b>.
     </p>
