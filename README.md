@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Sunday, November 1 at 12:57 AM 
+    Sunday, November 1 at 5:08 AM 
     <p>
-        Currently, the weather is: <b> 27°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> 26°C, <i>Partly cloudy</i></b>
         </br>
         Today, the sun rises at <b>05:51 AM</b> and sets at <b>05:27 PM</b>.
     </p>
