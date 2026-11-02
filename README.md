@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Monday, November 2 at 5:47 AM 
+    Monday, November 2 at 12:57 PM 
     <p>
-        Currently, the weather is: <b> 25°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 35°C, <i>Light drizzle</i></b>
         </br>
         Today, the sun rises at <b>05:51 AM</b> and sets at <b>05:27 PM</b>.
     </p>
