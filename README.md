@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Wednesday, November 4 at 9:55 PM 
+    Thursday, November 5 at 7:20 AM 
     <p>
-        Currently, the weather is: <b> 27°C, <i>Clear sky</i></b>
+        Currently, the weather is: <b> 27°C, <i>Partly cloudy</i></b>
         </br>
         Today, the sun rises at <b>05:52 AM</b> and sets at <b>05:26 PM</b>.
     </p>
