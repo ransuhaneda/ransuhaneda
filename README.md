@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Saturday, November 7 at 1:05 PM 
+    Saturday, November 7 at 8:38 PM 
     <p>
-        Currently, the weather is: <b> 33°C, <i>Light drizzle</i></b>
+        Currently, the weather is: <b> 28°C, <i>Partly cloudy</i></b>
         </br>
         Today, the sun rises at <b>05:53 AM</b> and sets at <b>05:25 PM</b>.
     </p>
