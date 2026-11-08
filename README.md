@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Sunday, November 8 at 5:33 AM 
+    Sunday, November 8 at 12:59 PM 
     <p>
-        Currently, the weather is: <b> 26°C, <i>Mainly clear</i></b>
+        Currently, the weather is: <b> 32°C, <i>Light drizzle</i></b>
         </br>
         Today, the sun rises at <b>05:53 AM</b> and sets at <b>05:25 PM</b>.
     </p>
