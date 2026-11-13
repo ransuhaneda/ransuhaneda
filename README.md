@@ -64,7 +64,7 @@
 ###
 
 <div align="center">
-    Friday, November 13 at 10:06 PM 
+    Saturday, November 14 at 7:20 AM 
     <p>
         Currently, the weather is: <b> °C, <i></i></b>
         </br>
