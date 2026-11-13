@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Friday, November 13 at 1:36 PM 
+    Friday, November 13 at 10:06 PM 
     <p>
-        Currently, the weather is: <b> 34°C, <i>Mainly clear</i></b>
+        Currently, the weather is: <b> °C, <i></i></b>
         </br>
-        Today, the sun rises at <b>05:55 AM</b> and sets at <b>05:24 PM</b>.
+        Today, the sun rises at <b></b> and sets at <b></b>.
     </p>
 </div>
