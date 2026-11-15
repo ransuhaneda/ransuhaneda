@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Sunday, November 15 at 6:04 AM 
+    Sunday, November 15 at 1:24 PM 
     <p>
-        Currently, the weather is: <b> °C, <i></i></b>
+        Currently, the weather is: <b> 33°C, <i>Partly cloudy</i></b>
         </br>
-        Today, the sun rises at <b></b> and sets at <b></b>.
+        Today, the sun rises at <b>05:56 AM</b> and sets at <b>05:23 PM</b>.
     </p>
 </div>
