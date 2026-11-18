@@ -64,7 +64,7 @@
 ###
 
 <div align="center">
-    Wednesday, November 18 at 11:17 PM 
+    Thursday, November 19 at 7:59 AM 
     <p>
         Currently, the weather is: <b> 28°C, <i>Overcast</i></b>
         </br>
