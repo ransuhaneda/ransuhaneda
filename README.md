@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Thursday, November 19 at 3:09 PM 
+    Friday, November 20 at 4:07 AM 
     <p>
-        Currently, the weather is: <b> 33°C, <i>Light drizzle</i></b>
+        Currently, the weather is: <b> 27°C, <i>Partly cloudy</i></b>
         </br>
-        Today, the sun rises at <b>05:58 AM</b> and sets at <b>05:23 PM</b>.
+        Today, the sun rises at <b>05:59 AM</b> and sets at <b>05:23 PM</b>.
     </p>
 </div>
