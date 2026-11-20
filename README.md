@@ -64,9 +64,9 @@
 ###
 
 <div align="center">
-    Friday, November 20 at 4:07 AM 
+    Friday, November 20 at 2:13 PM 
     <p>
-        Currently, the weather is: <b> 27°C, <i>Partly cloudy</i></b>
+        Currently, the weather is: <b> 27°C, <i>Dense drizzle</i></b>
         </br>
         Today, the sun rises at <b>05:59 AM</b> and sets at <b>05:23 PM</b>.
     </p>
