@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Saturday, November 21 at 2:03 PM 
+    Sunday, November 22 at 2:49 AM 
     <p>
-        Currently, the weather is: <b> 32°C, <i>Moderate drizzle</i></b>
+        Currently, the weather is: <b> 26°C, <i>Partly cloudy</i></b>
         </br>
-        Today, the sun rises at <b>05:59 AM</b> and sets at <b>05:23 PM</b>.
+        Today, the sun rises at <b>06:00 AM</b> and sets at <b>05:23 PM</b>.
     </p>
 </div>
