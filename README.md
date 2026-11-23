@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Monday, November 23 at 2:22 PM 
+    Tuesday, November 24 at 7:32 AM 
     <p>
-        Currently, the weather is: <b> °C, <i></i></b>
+        Currently, the weather is: <b> 29°C, <i>Mainly clear</i></b>
         </br>
-        Today, the sun rises at <b></b> and sets at <b></b>.
+        Today, the sun rises at <b>06:01 AM</b> and sets at <b>05:23 PM</b>.
     </p>
 </div>
