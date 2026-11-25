@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Wednesday, November 25 at 6:01 AM 
+    Wednesday, November 25 at 3:31 PM 
     <p>
-        Currently, the weather is: <b> 28°C, <i>Overcast</i></b>
+        Currently, the weather is: <b> °C, <i></i></b>
         </br>
-        Today, the sun rises at <b>06:01 AM</b> and sets at <b>05:23 PM</b>.
+        Today, the sun rises at <b></b> and sets at <b></b>.
     </p>
 </div>
