@@ -64,7 +64,7 @@
 ###
 
 <div align="center">
-    Friday, November 27 at 5:03 AM 
+    Friday, November 27 at 3:17 PM 
     <p>
         Currently, the weather is: <b> °C, <i></i></b>
         </br>
