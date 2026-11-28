@@ -64,10 +64,10 @@
 ###
 
 <div align="center">
-    Saturday, November 28 at 4:48 AM 
+    Saturday, November 28 at 2:49 PM 
     <p>
-        Currently, the weather is: <b> °C, <i></i></b>
+        Currently, the weather is: <b> 33°C, <i>Slight rain</i></b>
         </br>
-        Today, the sun rises at <b></b> and sets at <b></b>.
+        Today, the sun rises at <b>06:03 AM</b> and sets at <b>05:24 PM</b>.
     </p>
 </div>
